@@ -3,6 +3,8 @@
 </h1>
 <h4 align="center">Made with love by Uo (dont take credit)</h4>
 
+![Thumbnail](https://img.youtube.com/vi/T3aQ58JLVXM/maxresdefault.jpg)
+
 ---------
 # How To Setup Bot?
 - Watch [**Youtbe Video**](https://youtu.be/T3aQ58JLVXM)
