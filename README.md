@@ -9,7 +9,7 @@
 # How To Setup Bot?
 - Watch [**Youtbe Video**](https://youtu.be/T3aQ58JLVXM)
 # 💖 Support
-- ### [ΛLL IN ONΞ™ | Development </>](https://dsc.gg/uoaio)
+- ### [Patreon](https://www.patreon.com/uoaio)
 # 💝 Credit
 Make sure to credit me!
 ### [Uo#0331 or uoaio](https://discord.com/users/922120042651451423) | [Website](https://uoaio.vercel.app/) | [Discord](https://dsc.gg/uoaio)
