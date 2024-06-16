@@ -3,10 +3,13 @@
 </h1>
 <h4 align="center">Made with love by Uo (dont take credit)</h4>
 
+
 ![Thumbnail](https://img.youtube.com/vi/T3aQ58JLVXM/maxresdefault.jpg)
 
 ---------
-# How To Setup Bot?
+Also check it out [**Advance AI discord bot faster than chatgpt-4o**](https://github.com/Uo1428/Xnai-AI-chat-discord-bot)
+
+# How To Setup Bot? 
 - Watch [**Youtbe Video**](https://youtu.be/T3aQ58JLVXM)
 # 💖 Support
 - ### [Patreon](https://www.patreon.com/uoaio)
